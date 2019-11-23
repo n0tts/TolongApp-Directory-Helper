@@ -1,0 +1,86 @@
+[
+    {
+        "firstName": "Jimmy",
+        "lastName": "John Lee",
+        "age": 25,
+        "academicQualification": [
+            "spm",
+            "diploma",
+            "degree"
+        ],
+        "otherQualification": [
+            "Certificate in food handling"
+        ],
+        "jobPositions": [
+            "waiter",
+            "admin"
+        ],
+        "availability": true,
+        "rating": 5,
+        "currentLocation": "unknown",
+        "profileImage": "assets/images/profiles/images3.jpeg"
+    },
+    {
+        "firstName": "Margaret",
+        "lastName": "Gleen Chong",
+        "age": 35,
+        "academicQualification": [
+            "spm",
+            "diploma",
+            "degree"
+        ],
+        "otherQualification": [
+            "Certificate in food handling"
+        ],
+        "jobPositions": [
+            "cashier",
+            "clerk"
+        ],
+        "availability": true,
+        "rating": 3,
+        "currentLocation": "unknown",
+        "profileImage": "assets/images/profiles/images1.jpeg"
+    },
+    {
+        "firstName": "Margaret",
+        "lastName": "Gleen Chong",
+        "age": 35,
+        "academicQualification": [
+            "spm",
+            "diploma",
+            "degree"
+        ],
+        "otherQualification": [
+            "Certificate in food handling"
+        ],
+        "jobPositions": [
+            "cashier",
+            "clerk"
+        ],
+        "availability": true,
+        "rating": 3,
+        "currentLocation": "unknown",
+        "profileImage": "assets/images/profiles/images2.jpeg"
+    },
+    {
+        "firstName": "Margaret",
+        "lastName": "Gleen Chong",
+        "age": 35,
+        "academicQualification": [
+            "spm",
+            "diploma",
+            "degree"
+        ],
+        "otherQualification": [
+            "Certificate in food handling"
+        ],
+        "jobPositions": [
+            "cashier",
+            "clerk"
+        ],
+        "availability": true,
+        "rating": 3,
+        "currentLocation": "unknown",
+        "profileImage": "assets/images/profiles/images4.jpeg"
+    }
+]
